@@ -1611,10 +1611,6 @@ case 'listmenu':
                      {
                       "title": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
  rows: [
-                          {
-                              "title": "SellBot",
-                              "rowId": ""
-                           },
                            {
                               "title": "Speed",
                               "rowId": ""
