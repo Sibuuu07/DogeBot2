@@ -1175,7 +1175,7 @@ reply('https://github.com/Sibuuu07')
         reply(su)
 				}
         switch (command) {
-        	case 'sellbot':
+        	case 'Premium':
         case 'iklan':
 reply(`┏━━━━⬣ *BOT FEATURES*
 ┃⬡ _ANTILINK_
@@ -1611,10 +1611,7 @@ case 'listmenu':
                      {
                       "title": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`,
  rows: [
-                          {
-                              "title": "SellBot",
-                              "rowId": ""
-                           },
+                         
                            {
                               "title": "Speed",
                               "rowId": ""
