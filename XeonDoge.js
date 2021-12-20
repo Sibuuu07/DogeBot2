@@ -4329,7 +4329,7 @@ break
 buttons = [{buttonId: `menu`, buttonText: {displayText: '😎MENU😎'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 BROADCAST_*',
+    footerText: '*_𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓_*',
     buttons: buttons,
     headerType: 1
 }
