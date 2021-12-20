@@ -1174,33 +1174,7 @@ reply('https://github.com/Sibuuu07')
         su = mek.message.stickerMessage.contextInfo.quotedMessage.stickerMessage.fileSha256.toString('hex')
         reply(su)
 				}
-        switch (command) {
-        	case '':
-        case 'iklan':
-reply(`┏━━━━⬣ *BOT FEATURES*
-┃⬡ _ANTILINK_
-┃⬡ _WELCOME IMAGE + BUTTON_
-┃⬡ _BUTTON CMD_
-┃⬡ _STICKER CMD_
-┃⬡ _AND MANY OTHER FEATURES_
-┗⬣
-┏━━━━⬣ *LIST SELLING BOT*
-┃⬡ _RENT 50INR / WEEK_
-┃⬡ _RENT 100INR / MONTH_
-┃⬡ _RENT 150INR / MONTH + PREM_
-┃⬡ _PERMANENT 500INR_
-┃⬡ _PERMANENT + PREM 600INR_
-┗⬣
-┏━━━━⬣ *PREMIUM RENTAL LIST*
-┃⬡ _PREM 50INR / MONTH_
-┃⬡ _PREM 100INR PERMANENT_
-┗⬣
-┏━━━━⬣ *PAYMENT METHOD*
-┃⬡ _PAYTM_
-┗⬣
-┏━━━━⬣ *CONTACT*
-┃⬡ _Owner : wa.me/${NomorOwner}_
-┗⬣━━━━━━━━━━━━━━━━━━━━━━`)
+      
 break
 case 'menu':
 var z = '_'
