@@ -1175,7 +1175,7 @@ reply('https://github.com/Sibuuu07')
         reply(su)
 				}
         switch (command) {
-        	case 'sellbot':
+        	case '':
         case 'iklan':
 reply(`┏━━━━⬣ *BOT FEATURES*
 ┃⬡ _ANTILINK_
