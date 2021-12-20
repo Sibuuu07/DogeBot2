@@ -9,14 +9,14 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Sibuuu07"><img title="Author" src="https://img.shields.io/badge/Author-Sibu-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Sibuuu07"><img title="Author" src="https://img.shields.io/badge/Author-𝐒𝐈𝐁𝐔-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Sibu" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
