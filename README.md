@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBotV2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,7 +36,7 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Sibuuu07/SibuBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Sibuuu07/SibuBotV2/blob/master/session.json#L1)
 
 ## `SETTING`
 
@@ -46,8 +46,8 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/Sibuuu07/SibuBot2.git
-🦄 cd SibuBot2
+🦄 git clone https://github.com/Sibuuu07/SibuBotV2.git
+🦄 cd SibuBotV2
 🦄 npm start
 ```
 ## For Termux
@@ -63,8 +63,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/Sibuuu07/SibuBot2
-🦄 cd SibuBot2
+🦄 git clone https://github.com/Sibuuu07/SibuBotV2
+🦄 cd SibuBotV2
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
