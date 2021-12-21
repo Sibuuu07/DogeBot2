@@ -1620,10 +1620,7 @@ case 'listmenu':
                               "title": "SoundMenu",
                               "rowId": ""
                            },
-                           {
-                              "title": "Status",
-                              "rowId": ""
-                           },
+                           
                            {
                               "title": "Creator",
                               "rowId": ""
